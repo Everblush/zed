@@ -4,4 +4,4 @@ Everblush port for Zed (community)
 ## Installation
 Copy the zed_everblush.json file to `~/.config/zed/themes`, and inside zed, use Ctrl+K Ctrl+T to set your theme to everblush.
 
-It is also available on https://zed-themes.com.
+It is also available on https://zed-themes.com [here](https://zed-themes.com/themes/otsmW3go6uDOUnp1iOaq2?name=Everblush)
