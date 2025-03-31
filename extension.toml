@@ -1,0 +1,7 @@
+id = "everblush"
+name = "Everblush"
+version = "1.0.0"
+schema_version = 1
+authors = ["saxophone-dev <me@saxophone.is-a.dev>", "mngshm <replace@this.lol>"]
+description = "The Everblush colorscheme for Zed."
+repository = "https://github.com/Everblush/zed"
